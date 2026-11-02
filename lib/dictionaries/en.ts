@@ -2,8 +2,8 @@
 // 刻意不加 as const:字符串需放宽为 string,翻译文件才可实现同一类型。
 const en = {
   brand: "LoanMate",
-  tagline: "Mortgage, loan and salary calculators that run in your browser.",
-  metaDesc: "Free finance calculators: mortgage payments with PITI, loan and compound interest, salary to hourly conversions and break-even analysis. Everything runs in your browser — your numbers never leave your device.",
+  tagline: "Mortgage, loan and salary calculators",
+  metaDesc: "Free finance calculators: mortgage with PITI, loan and compound interest, salary conversions, break-even analysis. Numbers never leave your device.",
 
   nav: {
     tools: "All tools",
